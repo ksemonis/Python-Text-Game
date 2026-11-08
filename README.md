@@ -1,0 +1,1 @@
+This is the basic text game made in Python. TextBasedGame.py represents the original version of the game, EnhancedTextBasedGame.py is the version after adding new features, like a save system and a system for verifying the integrity of those saves.
